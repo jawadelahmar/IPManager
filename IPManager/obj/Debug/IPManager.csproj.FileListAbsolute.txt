@@ -1,0 +1,10 @@
+C:\Users\JAWAD\source\repos\IPManager\IPManager\bin\Debug\IPManager.exe.config
+C:\Users\JAWAD\source\repos\IPManager\IPManager\bin\Debug\IPManager.exe
+C:\Users\JAWAD\source\repos\IPManager\IPManager\bin\Debug\IPManager.pdb
+C:\Users\JAWAD\source\repos\IPManager\IPManager\obj\Debug\IPManager.csprojAssemblyReference.cache
+C:\Users\JAWAD\source\repos\IPManager\IPManager\obj\Debug\IPManager.Form1.resources
+C:\Users\JAWAD\source\repos\IPManager\IPManager\obj\Debug\IPManager.Properties.Resources.resources
+C:\Users\JAWAD\source\repos\IPManager\IPManager\obj\Debug\IPManager.csproj.GenerateResource.cache
+C:\Users\JAWAD\source\repos\IPManager\IPManager\obj\Debug\IPManager.csproj.CoreCompileInputs.cache
+C:\Users\JAWAD\source\repos\IPManager\IPManager\obj\Debug\IPManager.exe
+C:\Users\JAWAD\source\repos\IPManager\IPManager\obj\Debug\IPManager.pdb
